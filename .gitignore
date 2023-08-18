@@ -33,3 +33,9 @@ tests/.excluded_sites
 
 # Vim swap files
 *.swp
+
+# Vim tags
+tags
+
+# Poetry output
+dist/
