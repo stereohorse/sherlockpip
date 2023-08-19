@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sherlockpack"
-version = "0.3.0"
+version = "0.6.0"
 license = "MIT"
 description = "Pip package for repository github.com/sherlock-project/sherlock"
 authors = ["Siddharth Dushantha"]
